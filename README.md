@@ -5,7 +5,7 @@ aws-vpn-status is a Lambda function that provides a CloudWatch Custom Metric of 
 # Usage
 
 ```bash
-cd vpn-status
+cd aws-vpn-status
 npm install -save async
 zip -r ../vpn-status.zip .
 cd ..
